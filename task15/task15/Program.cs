@@ -15,7 +15,7 @@ namespace task15
         static IEnumerable Query1(int[] numbers, List<string> stringList)
         {
             var q1 = (from t1 in numbers
-                      join t2 in stringList
+                      join t2 in stringList.Where(x => Char.IsNumber(x[0]))
                       on t1 equals t2.Length into a
                       from t2 in a.DefaultIfEmpty()
                       select new
