@@ -1,0 +1,14 @@
+D:\down\Sigma-Software-.Net-camp-main\task15\task15\bin\Debug\netcoreapp3.1\task15.exe
+D:\down\Sigma-Software-.Net-camp-main\task15\task15\bin\Debug\netcoreapp3.1\task15.deps.json
+D:\down\Sigma-Software-.Net-camp-main\task15\task15\bin\Debug\netcoreapp3.1\task15.runtimeconfig.json
+D:\down\Sigma-Software-.Net-camp-main\task15\task15\bin\Debug\netcoreapp3.1\task15.runtimeconfig.dev.json
+D:\down\Sigma-Software-.Net-camp-main\task15\task15\bin\Debug\netcoreapp3.1\task15.dll
+D:\down\Sigma-Software-.Net-camp-main\task15\task15\bin\Debug\netcoreapp3.1\task15.pdb
+D:\down\Sigma-Software-.Net-camp-main\task15\task15\obj\Debug\netcoreapp3.1\task15.csproj.AssemblyReference.cache
+D:\down\Sigma-Software-.Net-camp-main\task15\task15\obj\Debug\netcoreapp3.1\task15.GeneratedMSBuildEditorConfig.editorconfig
+D:\down\Sigma-Software-.Net-camp-main\task15\task15\obj\Debug\netcoreapp3.1\task15.AssemblyInfoInputs.cache
+D:\down\Sigma-Software-.Net-camp-main\task15\task15\obj\Debug\netcoreapp3.1\task15.AssemblyInfo.cs
+D:\down\Sigma-Software-.Net-camp-main\task15\task15\obj\Debug\netcoreapp3.1\task15.csproj.CoreCompileInputs.cache
+D:\down\Sigma-Software-.Net-camp-main\task15\task15\obj\Debug\netcoreapp3.1\task15.dll
+D:\down\Sigma-Software-.Net-camp-main\task15\task15\obj\Debug\netcoreapp3.1\task15.pdb
+D:\down\Sigma-Software-.Net-camp-main\task15\task15\obj\Debug\netcoreapp3.1\task15.genruntimeconfig.cache
